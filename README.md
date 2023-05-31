@@ -7,4 +7,4 @@ This is the build version of the sample Landing page.
 
 
 
-Sample Landing page hosted on 'https://landing-page-build.vercel.app/' using Vercel.
+Sample Landing page hosted on 'https://landing-page-build.vercel.app/'.
